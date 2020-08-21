@@ -25,3 +25,14 @@ expect doing it more would uncover more and save everyone time in the
 long run.
 
 ----------------
+
+From https://srfi-email.schemers.org/srfi-discuss/msg/15036461/
+
+We have Docker containers for 45 Scheme implementations at
+<https://hub.docker.com/u/schemers>, including a container build from
+git master for many of the actively developed Schemes. I can give ssh
+access to people I know from the lists to a Linux server with Docker
+pre-configured.
+
+----------------
+
