@@ -226,8 +226,8 @@ Other known SRFI 64 lib versions:
 
   R6RS at chez-srfi.
 
-  Use https://akkuscm.org, including it convering from R7RS including
-  from Snowfort.
+  Use https://akkuscm.org for R6RS, including it convering from R7RS
+  including from Snowfort.
 
 ----------------
 
