@@ -210,3 +210,24 @@ The same is true of the more functional (chibi test).
 
 ----------------
 
+Personal communication from Lassi:
+
+"Test" libs with https://misc.lassi.io/2019/packhack.html.
+
+----------------
+
+Personal communication from Lassi:
+
+Other known SRFI 64 lib versions:
+
+  Snowfort
+
+  Chicken egg
+
+  R6RS at chez-srfi.
+
+  Use https://akkuscm.org, including it convering from R7RS including
+  from Snowfort.
+
+----------------
+
