@@ -1,0 +1,27 @@
+Set up proper licencing.
+
+----------------
+
+Maybe, and or maybe by someone else:
+
+From https://srfi-email.schemers.org/srfi-discuss/msg/15036461/
+
+https://github.com/srfi-explorations/srfi-test is a repo I started a
+while back to collect tests for as many SRFIs as we can in one place.
+The tests in that repo use the SRFI 64 test definition primitives. Shiro
+and Alex graciously donates many of their excellent tests under the MIT
+License so the licensing situation for the repo can be as simple as the
+situation with the SRFI documents themselves. Marc Feeley also donated
+any tests in Gambit and is converting them piecemeal to SRFI 64.
+
+The ultimate idea would be that the repo can have the test suites in a
+format that Scheme implementations can simply copy those files verbatim
+into their source trees. Doing whatever it takes to get them into a form
+that implementors find agreeable. (include "...") in (define-library)
+does wonders to enable portable .scm files. I haven't yet had the energy
+to pursue this since there are so many things to do, but it'd be awesome
+if you do. Aggregating the tests already uncovered a bunch of bugs; I
+expect doing it more would uncover more and save everyone time in the
+long run.
+
+----------------
