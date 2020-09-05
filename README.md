@@ -1,2 +1,1 @@
-# website
-Source etc. for Schemetest website
+Source etc. for Schemetest website at https://test.scheme.org.
